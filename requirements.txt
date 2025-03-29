@@ -1,0 +1,5 @@
+pipecat-ai[daily,elevenlabs,openai,silero,simli]
+# av==12.3.0 # fixes simli utils layout 1 to mono
+aiortc==1.11.0 # fixes no decoder found for MIME type video/rtx retransmission
+
+python-dotenv~=1.0

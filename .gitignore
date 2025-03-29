@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+.DS_Store
+
+.env.local
+.env
+.env.production
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
