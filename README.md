@@ -5,7 +5,6 @@ This is an example of a Simli avatar that uses the Pipecat SDK to create an AI a
 ## Installation
 
 ```console
-# Linux/macOS
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
